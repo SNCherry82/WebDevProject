@@ -1,0 +1,69 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 18px;
+}
+li{
+    font-style: italic;
+    font-weight: normal;
+    font-size: 20px;
+}
+.Company{
+    font-weight: bold;
+    font-style: normal;
+}
+a{
+    text-decoration: none;
+    color: red;
+}
+a:hover{
+    font-weight: bold;
+    color: blue;
+}
+a:visited{
+    color: purple;
+}
+.Marvel{
+    background-color: red;
+    margin: 50px;  
+    padding: 50px;
+    border: 50px;
+}
+.DC{
+    background-color: blue;
+    margin: 50px;  
+    padding: 50px;
+    border: 50px;
+}
+.Image{
+    background-color: yellow;
+    margin: 50px;  
+    padding: 50px;
+    border: 50px;
+    color: blue;
+}
+.DH{
+    background-color: indigo;
+    margin: 50px;  
+    padding: 50px;
+    border: 50px;
+}
+.IDW{
+    background-color: green;
+    margin: 50px;  
+    padding: 50px;
+    border: 50px;
+}
+ol{
+    color: white;
+}
+.margleft{
+    margin-left: 50px;
+}
+.font{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
